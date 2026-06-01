@@ -1,119 +1,95 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0d1117,100:000000&height=120&section=header&text=%3E_%20xiaoLangtou&fontSize=48&fontColor=00ff41&animation=blinking&fontAlign=50&fontAlignY=55&desc=Initializing%20developer%20profile...&descSize=13&descAlign=50&descAlignY=80&descFontColor=00cc33" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=500&color=00FF41&background=00000000&center=true&vCenter=true&width=560&lines=%24+whoami+--+weipengcheng;%24+cat+skills.txt+%7C+grep+frontend;%E2%96%BA+Vue3+%7C+TypeScript+%7C+NestJS+%7C+Node.js;%24+ls+projects%2F+%7C+wc+-l+%3E%3E+52+repos;%24+echo+%22Keep+coding%2C+keep+shipping%22;%5B+%E2%9C%94+%5D+Profile+loaded+successfully" />
+</div>
+
+---
+
+<div align="center">
 
 ```
-██╗    ██╗███████╗██╗██████╗ ███████╗███╗   ██╗ ██████╗  ██████╗██╗  ██╗███████╗███╗   ██╗ ██████╗ 
-██║    ██║██╔════╝██║██╔══██╗██╔════╝████╗  ██║██╔════╝ ██╔════╝██║  ██║██╔════╝████╗  ██║██╔════╝ 
-██║ █╗ ██║█████╗  ██║██████╔╝█████╗  ██╔██╗ ██║██║  ███╗██║     ███████║█████╗  ██╔██╗ ██║██║  ███╗
-██║███╗██║██╔══╝  ██║██╔═══╝ ██╔══╝  ██║╚██╗██║██║   ██║██║     ██╔══██║██╔══╝  ██║╚██╗██║██║   ██║
-╚███╔███╔╝███████╗██║██║     ███████╗██║ ╚████║╚██████╔╝╚██████╗██║  ██║███████╗██║ ╚████║╚██████╔╝
- ╚══╝╚══╝ ╚══════╝╚═╝╚═╝     ╚══════╝╚═╝  ╚═══╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝ 
+╔══════════════════════════════════════════════════════════════╗
+║  $ cat /etc/developer.conf                                   ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  NAME     →  weipengcheng  (alias: xiaoLangtou)             ║
+║  ROLE     →  Frontend & Full-Stack Developer                 ║
+║  STACK    →  Vue3 · TypeScript · NestJS · Node.js            ║
+║  MISSION  →  开源文档中文化 · 让知识无边界                       ║
+║  STATUS   →  [████████████░░░]  always building...          ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
+---
+
+## `~/tech-stack` &nbsp;▌
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+weipengcheng+(xiaoLangtou);Frontend+%2B+Full-Stack+Developer;Vue+%7C+TypeScript+%7C+NestJS+Enthusiast;Open+Source+%26+Docs+Contributor+%F0%9F%9A%80" alt="Typing SVG" />
+
+![Vue.js](https://img.shields.io/badge/Vue%203-%2300ff41.svg?style=for-the-badge&logo=vuedotjs&logoColor=0d1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-%2300ff41.svg?style=for-the-badge&logo=typescript&logoColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-%2300ff41.svg?style=for-the-badge&logo=javascript&logoColor=0d1117)
+![NestJS](https://img.shields.io/badge/NestJS-%2300ff41.svg?style=for-the-badge&logo=nestjs&logoColor=0d1117)
+![Node.js](https://img.shields.io/badge/Node.js-%2300ff41.svg?style=for-the-badge&logo=node.js&logoColor=0d1117)
+![Vite](https://img.shields.io/badge/Vite-%2300ff41.svg?style=for-the-badge&logo=vite&logoColor=0d1117)
+![Pinia](https://img.shields.io/badge/Pinia-%2300ff41.svg?style=for-the-badge&logo=vue.js&logoColor=0d1117)
+![Git](https://img.shields.io/badge/Git-%2300ff41.svg?style=for-the-badge&logo=git&logoColor=0d1117)
+
 </div>
 
-<br/>
+---
+
+## `~/stats` &nbsp;▌
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=xiaoLangtou&color=00f0ff&style=flat-square&label=Profile+Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xiaoLangtou&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00cc33&ring_color=00ff41" height="155"/>
   &nbsp;
-  <a href="https://github.com/xiaoLangtou?tab=followers">
-    <img src="https://img.shields.io/github/followers/xiaoLangtou?style=flat-square&color=7928ca&labelColor=0d1117&label=Followers" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/xiaoLangtou?tab=stars">
-    <img src="https://img.shields.io/badge/Stars-4-ffd859?style=flat-square&labelColor=0d1117" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoLangtou&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00cc33&langs_count=6" height="155"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=xiaoLangtou&hide_border=true&background=0d1117&ring=00ff41&fire=00cc33&currStreakLabel=00ff41&sideLabels=00cc33&dates=555&stroke=00ff4120" width="50%"/>
 </div>
 
 ---
 
-## 🧑‍💻 About Me
-
-```ts
-const weipengcheng = {
-  alias:    "xiaoLangtou · 小浪头",
-  role:     "Frontend & Full-Stack Developer",
-  location: "China 🇨🇳",
-  passion:  ["Open Source", "Tech Docs Translation", "Building Dev Tools"],
-  motto:    "Keep coding, keep shipping. 🚀",
-  currently: {
-    learning:  "Drizzle ORM · TanStack · Turborepo",
-    working:   "Vue 3 + NestJS full-stack projects",
-    sharing:   "中文开源文档 & 技术翻译"
-  }
-};
-```
-
----
-
-## ⚡ Tech Stack
+## `~/projects` &nbsp;▌
 
 <div align="center">
 
-**Frontend**
-
-![Vue.js](https://img.shields.io/badge/Vue%203-42d392?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646cff?style=for-the-badge&logo=vite&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-ffd859?style=for-the-badge&logo=vue.js&logoColor=black)
-
-**Backend**
-
-![NestJS](https://img.shields.io/badge/NestJS-e0234e?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6da55f?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-fe0902?style=for-the-badge&logo=typeorm&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-f05033?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-f69220?style=for-the-badge&logo=pnpm&logoColor=white)
-![MDX](https://img.shields.io/badge/MDX-1b1f24?style=for-the-badge&logo=mdx&logoColor=white)
+<a href="https://github.com/xiaoLangtou/nest-admin">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiaoLangtou&repo=nest-admin&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00cc33" />
+</a>
+<a href="https://github.com/xiaoLangtou/tiny-vue-web-types">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiaoLangtou&repo=tiny-vue-web-types&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00cc33" />
+</a>
+<a href="https://github.com/xiaoLangtou/nestjs-zh-docs">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiaoLangtou&repo=nestjs-zh-docs&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00cc33" />
+</a>
+<a href="https://github.com/xiaoLangtou/drizzle-orm-docs">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiaoLangtou&repo=drizzle-orm-docs&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00cc33" />
+</a>
+<a href="https://github.com/xiaoLangtou/tanstack-table-docs">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiaoLangtou&repo=tanstack-table-docs&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00cc33" />
+</a>
+<a href="https://github.com/xiaoLangtou/turborepo-zh-docs">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiaoLangtou&repo=turborepo-zh-docs&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00cc33" />
+</a>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## `~/activity` &nbsp;▌
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=xiaoLangtou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=7928ca&text_color=e6edf3&rank_icon=github" />
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoLangtou&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=e6edf3&langs_count=6" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=xiaoLangtou&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=21262d&ring=00f0ff&fire=7928ca&currStreakLabel=00f0ff" />
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|---|---|---|
-| [🏗️ **nest-admin**](https://github.com/xiaoLangtou/nest-admin) | NestJS 全栈快速开发平台 | `Vue` `NestJS` |
-| [💡 **tiny-vue-web-types**](https://github.com/xiaoLangtou/tiny-vue-web-types) | 为 OpenTiny Vue 提供 IDE 智能提示 | `JavaScript` |
-| [📖 **nestjs-zh-docs**](https://github.com/xiaoLangtou/nestjs-zh-docs) | NestJS 中文文档站点 | `Vue` `MDX` |
-| [📚 **drizzle-orm-docs**](https://github.com/xiaoLangtou/drizzle-orm-docs) | Drizzle ORM 中文文档 | `MDX` |
-| [📋 **tanstack-table-docs**](https://github.com/xiaoLangtou/tanstack-table-docs) | TanStack Table 中文文档 | `TypeScript` |
-| [⚡ **turborepo-zh-docs**](https://github.com/xiaoLangtou/turborepo-zh-docs) | Turborepo 中文文档 | `Vue` |
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xiaoLangtou&bg_color=0d1117&color=00f0ff&line=7928ca&point=ff6b6b&area=true&area_color=7928ca&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xiaoLangtou&bg_color=0d1117&color=00ff41&line=00cc33&point=00ff41&area=true&area_color=00ff4120&hide_border=true" width="98%"/>
 </div>
 
 ---
@@ -121,11 +97,16 @@ const weipengcheng = {
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║   "Talk is cheap. Show me the code." — Linus Torvalds   ║
-╚══════════════════════════════════════════════════════════╝
+[ system ] ·········································· EOF
+[ status ] · All systems operational
+[ uptime ] · Still shipping code since day one
+> █
 ```
 
-⭐️ **如果我的项目对你有帮助，欢迎 Star！**
+<img src="https://komarev.com/ghpvc/?username=xiaoLangtou&style=flat-square&color=00ff41&label=visitors+%2F+intruders+detected" />
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0d1117,100:000000&height=60&section=footer&text=&fontSize=0" width="100%"/>
 </div>
