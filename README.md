@@ -119,6 +119,24 @@
     </td>
   </tr>
 </table>
+
+## 🚀 Pinned Projects
+
+<div align="center">
+
+[![nest-admin](https://img.shields.io/badge/🏗️%20nest--admin-NestJS%20全栈快速开发平台%20%7C%20Vue%20·%20NestJS-0d1117?style=for-the-badge&labelColor=161b22&color=0d1117)](https://github.com/xiaoLangtou/nest-admin)
+
+[![tiny-vue-web-types](https://img.shields.io/badge/💡%20tiny--vue--web--types-为%20OpenTiny%20Vue%20提供%20IDE%20智能提示%20%7C%20JavaScript-0d1117?style=for-the-badge&labelColor=161b22&color=0d1117)](https://github.com/xiaoLangtou/tiny-vue-web-types)
+
+[![nestjs-zh-docs](https://img.shields.io/badge/📖%20nestjs--zh--docs-NestJS%20中文文档站点%20%7C%20Vue-0d1117?style=for-the-badge&labelColor=161b22&color=0d1117)](https://github.com/xiaoLangtou/nestjs-zh-docs)
+
+[![drizzle-orm-docs](https://img.shields.io/badge/📚%20drizzle--orm--docs-Drizzle%20ORM%20中文文档站点%20%7C%20MDX-0d1117?style=for-the-badge&labelColor=161b22&color=0d1117)](https://github.com/xiaoLangtou/drizzle-orm-docs)
+
+[![tanstack-table-docs](https://img.shields.io/badge/📋%20tanstack--table--docs-TanStack%20Table%20中文文档%20%7C%20TypeScript-0d1117?style=for-the-badge&labelColor=161b22&color=0d1117)](https://github.com/xiaoLangtou/tanstack-table-docs)
+
+[![turborepo-zh-docs](https://img.shields.io/badge/⚡%20turborepo--zh--docs-Turborepo%20中文文档%20%7C%20Vue-0d1117?style=for-the-badge&labelColor=161b22&color=0d1117)](https://github.com/xiaoLangtou/turborepo-zh-docs)
+
+</div>
 ---
 
 ## 📈 Contribution Activity
