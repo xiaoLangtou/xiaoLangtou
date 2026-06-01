@@ -37,16 +37,62 @@
 
 ## 🚀 Pinned Projects
 
-<div align="center">
-
-[![nest-admin](https://github-readme-stats.vercel.app/api/pin/?username=xiaoLangtou&repo=nest-admin&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a78bfa&text_color=8b949e)](https://github.com/xiaoLangtou/nest-admin)
-[![tiny-vue-web-types](https://github-readme-stats.vercel.app/api/pin/?username=xiaoLangtou&repo=tiny-vue-web-types&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a78bfa&text_color=8b949e)](https://github.com/xiaoLangtou/tiny-vue-web-types)
-[![nestjs-zh-docs](https://github-readme-stats.vercel.app/api/pin/?username=xiaoLangtou&repo=nestjs-zh-docs&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a78bfa&text_color=8b949e)](https://github.com/xiaoLangtou/nestjs-zh-docs)
-[![drizzle-orm-docs](https://github-readme-stats.vercel.app/api/pin/?username=xiaoLangtou&repo=drizzle-orm-docs&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a78bfa&text_color=8b949e)](https://github.com/xiaoLangtou/drizzle-orm-docs)
-[![tanstack-table-docs](https://github-readme-stats.vercel.app/api/pin/?username=xiaoLangtou&repo=tanstack-table-docs&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a78bfa&text_color=8b949e)](https://github.com/xiaoLangtou/tanstack-table-docs)
-[![turborepo-zh-docs](https://github-readme-stats.vercel.app/api/pin/?username=xiaoLangtou&repo=turborepo-zh-docs&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a78bfa&text_color=8b949e)](https://github.com/xiaoLangtou/turborepo-zh-docs)
-
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🏗️ <a href="https://github.com/xiaoLangtou/nest-admin">nest-admin</a></h3>
+      <p>NestJS 全栈快速开发平台，前后端一体化解决方案</p>
+      <p>
+        <img src="https://img.shields.io/badge/Vue-42d392?style=flat-square&logo=vuedotjs&logoColor=0d1117"/>
+        <img src="https://img.shields.io/badge/NestJS-e0234e?style=flat-square&logo=nestjs&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>💡 <a href="https://github.com/xiaoLangtou/tiny-vue-web-types">tiny-vue-web-types</a></h3>
+      <p>为 OpenTiny Vue 提供 IDE 智能提示支持</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-f59e0b?style=flat-square&logo=javascript&logoColor=0d1117"/>
+        <img src="https://img.shields.io/badge/stars-1-58a6ff?style=flat-square&logo=github"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📖 <a href="https://github.com/xiaoLangtou/nestjs-zh-docs">nestjs-zh-docs</a></h3>
+      <p>NestJS 中文文档，助力国内开发者快速上手</p>
+      <p>
+        <img src="https://img.shields.io/badge/Vue-42d392?style=flat-square&logo=vuedotjs&logoColor=0d1117"/>
+        <img src="https://img.shields.io/badge/stars-1-58a6ff?style=flat-square&logo=github"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>📚 <a href="https://github.com/xiaoLangtou/drizzle-orm-docs">drizzle-orm-docs</a></h3>
+      <p>Drizzle ORM 中文文档站点，极速 ORM 中文化</p>
+      <p>
+        <img src="https://img.shields.io/badge/MDX-f97316?style=flat-square&logo=mdx&logoColor=white"/>
+        <img src="https://img.shields.io/badge/stars-1-58a6ff?style=flat-square&logo=github"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📋 <a href="https://github.com/xiaoLangtou/tanstack-table-docs">tanstack-table-docs</a></h3>
+      <p>TanStack Table 现代化表格解决方案中文文档</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3b82f6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/stars-1-58a6ff?style=flat-square&logo=github"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>⚡ <a href="https://github.com/xiaoLangtou/turborepo-zh-docs">turborepo-zh-docs</a></h3>
+      <p>Turborepo 中文文档，Monorepo 极速构建指南</p>
+      <p>
+        <img src="https://img.shields.io/badge/Vue-42d392?style=flat-square&logo=vuedotjs&logoColor=0d1117"/>
+        <img src="https://img.shields.io/badge/stars-1-58a6ff?style=flat-square&logo=github"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -64,8 +110,6 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=100&section=footer)
 
-</div>
+<sub>✦ Keep coding, keep shipping · made with ❤️ by weipengcheng · <b>xiaoLangtou</b></sub>
 
-<div align="center">
-  <sub>✦ Keep coding, keep shipping · made with ❤️ by weipengcheng · <b>xiaoLangtou</b></sub>
 </div>
